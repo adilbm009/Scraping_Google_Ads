@@ -1,5 +1,5 @@
 # Google Ads Scraping Project
-
+ 
 ## Prerequisites
 
 To run the project, make sure you have the following installed:
